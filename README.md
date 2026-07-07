@@ -1,2 +1,2 @@
-# IT Technical Portfolio > Security-Labs
+# IT Technical Portfolio > Security Labs
 Lab examples showcasing my security abilities.
